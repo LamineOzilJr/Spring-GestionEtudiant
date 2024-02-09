@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³‹©âúÿÿÿÿ
+h	java:S116"NRename this field "Nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ç³ûÿÿÿÿ
+f	java:S116"QRename this field "Prenom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÿÅß
+I
+java:S1068"'Remove this unused "Nom" private field.(¬Ç³ûÿÿÿÿ8ÓÕµÙØ1
+G
+java:S1068"*Remove this unused "Prenom" private field.(ŞÿÅß8ÕÕµÙØ1

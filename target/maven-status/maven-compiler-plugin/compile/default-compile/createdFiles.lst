@@ -1,0 +1,6 @@
+com\groupeisi\ProjetCRUDspring\Entity\EtudiantM.class
+com\groupeisi\ProjetCRUDspring\Controller\EtudiantC.class
+com\groupeisi\ProjetCRUDspring\Exeption\GlobalExceptionHandler.class
+com\groupeisi\ProjetCRUDspring\ProjetCruDspringApplication.class
+com\groupeisi\ProjetCRUDspring\Service\EtudiantS.class
+com\groupeisi\ProjetCRUDspring\Repository\EtudiantR.class
